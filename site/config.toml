@@ -2,7 +2,7 @@ baseURL = 'https://kci.zone/'
 languageCode = 'en-us'
 title = 'Sean Kaycee'
 
-theme = "paper"
+theme = "../themes/paper"
 
 [params]
   # color style
